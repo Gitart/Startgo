@@ -16,8 +16,10 @@
 2. Запустить Rethinkdb.exe  
 3. Панель управления (by default): localhost:8080  
 4. Адрес для подключения  localhost:28015
-6. Драйвер для базы RethinkDb (инсталируется go get -u github.com/dancannon/gorethink) :
-   https://github.com/GoRethink/gorethink
-7. Команды управления базой :
-   https://rethinkdb.com/api/javascript/	
+6. Драйвер для базы [RethinkDb](https://github.com/GoRethink/gorethink) (инсталируется go get -u github.com/dancannon/gorethink) :
+7. [Команды](https://rethinkdb.com/api/javascript/) управления базой
 
+## Service
+1. Подключение к базе данных
+2. Опредление роутинга
+3. Описание сервиса
