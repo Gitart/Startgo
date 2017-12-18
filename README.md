@@ -42,6 +42,7 @@
 # Русскоязычные сайты и сообщества
 1. [Первый русскоязычный сайт по Go](http://4gophers.com/)
 2. [Русскоязычный slack-чат по Go](https://golang-ru.slack.com)
+3. [Гофры](https://4gophers.ru/)
 
 # English resources
 3. [Тур по Go](http://tour.golang.org/) 
