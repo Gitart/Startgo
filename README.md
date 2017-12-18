@@ -25,10 +25,9 @@
 3. Описание сервиса
 
 ## Testing 
-1. Curl  
-2. Insomnia
-3. Postmen   
-4. etc.
+1. [Curl](https://winampplugins.co.uk/curl/curl_7_53_1_openssl_nghttp2_x64.7z)  
+2. [Insomnia](https://builds.insomnia.rest/downloads/windows/latest)
+3. [Postmen](https://app.getpostman.com/app/download/win64)   
 
 ## Learning
 1. [Package for Go](https://golang.org/pkg/)
