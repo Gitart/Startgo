@@ -8,8 +8,8 @@
 1. Скачать и установить язык разработки [Go](https://golang.org/doc/install?download=go1.9.2.windows-amd64.msi)
 2. Скачать и установить для среду разработки например [VSCode](https://code.visualstudio.com/docs/?dv=win)  
 3. Можно воспользоваться редактором [Sublime](https://www.sublimetext.com/3) или [Atom](https://atom.io/) 
-4. Создать директорию для рабочего проекта (например: md c:/workgo)
-5. Создать bat файл для компиляции проекта run.bat
+4. Создать директорию для рабочего проекта (например: **md c:/workgo**)
+5. Создать bat файл для компиляции проекта **run.bat** 
 
 ## RethinkDB
 1. Скачать и установить базу данных [Rethinkdb](https://download.rethinkdb.com/windows/rethinkdb-2.3.6.zip) для Windows	 
