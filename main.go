@@ -13,8 +13,12 @@ import (
 	"time"
 )
 
+// Map - string - interface
+type Mst map[string]interface{} 
 
-type Mst map[string]interface{}                               // Map - string - interface
+// Global session for database connect
+var sessionArray []*Rt.Session
+
 
 /***************************************************************************************************************************************
  *
@@ -73,7 +77,7 @@ func api_data_insert(w http.ResponseWriter, r *http.Request) {
 	// конфликтом первичного ключа  (ID)
 	Conflictrule := Rt.InsertOpts{Conflict: "replace", Durability: "soft"}
   
-  // Body
+        // Body
 	reads, errbody := ioutil.ReadAll(r.Body)
 	Err(errbody, "Error read body.")
 	defer r.Body.Close()
@@ -88,7 +92,7 @@ func api_data_insert(w http.ResponseWriter, r *http.Request) {
 
 	Err(err, "Not insert data")
   
-  // Контроль возвращаемых записей
+        // Контроль возвращаемых записей
 	// Recinsert  := Rec.Inserted
 	// fmt.Fprintln(w,"Adding records to database ",Recinsert)
 }
