@@ -13,7 +13,7 @@
 
 ## RethinkDB
 1. Скачать и установить базу данных [Rethinkdb](https://download.rethinkdb.com/windows/rethinkdb-2.3.6.zip) для Windows	 
-2. Запустить Rethinkdb.exe  
+2. Запустить базу данных :  /*rethinkdb.exe -n jarvis*/
 3. Панель управления (by default): localhost:8080  
 4. Адрес для подключения  localhost:28015
 6. Драйвер для базы [RethinkDb](https://github.com/GoRethink/gorethink) (инсталируется go get -u github.com/dancannon/gorethink) :
