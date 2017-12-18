@@ -23,7 +23,7 @@ type Mst map[string]interface{}                               // Map - string - 
  *   Date         : 2017-18-12
  *   Description  : Initialization DB Connect
  *   Author       : Savchenko Arthur
- *   ☎           : 8-097-5547468
+ *   ☎           : 8-097-0000000007
  *
  ****************************************************************************************************************************************/
 func init() {
