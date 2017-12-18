@@ -87,8 +87,7 @@ func api_data_insert(w http.ResponseWriter, r *http.Request) {
 	Err(errj, "Error unmarshaling document.")
 
 	// Добавление документа c добавлением дополнительных полей
-	// Marge - очень полезная функция добавление полей для каждой строки-документа в мсассиве документов []
-	err := Rt.DB(d).Table(t).Insert(Rt.Expr(m), Conflictrule).Exec(sessionArray[0])
+	err := Rt.DB("test").Table("work").Insert(Rt.Expr(m), Conflictrule).Exec(sessionArray[0])
 
 	Err(err, "Not insert data")
   
@@ -97,5 +96,16 @@ func api_data_insert(w http.ResponseWriter, r *http.Request) {
 	// fmt.Fprintln(w,"Adding records to database ",Recinsert)
 }
 
+/***************************************************************
+  Description Error
+  Time        11-12-2017
+  Title       Error exeption
+ ****************************************************************/
+func Err(Er error, Txt string) {
+	if Er != nil {
+		log.Println("ERROR : "+Txt, "Description : "+Er.Error())
+		return
+	}
+}
 
 
