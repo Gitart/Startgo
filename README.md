@@ -12,7 +12,7 @@
 5. Создать bat файл для компиляции проекта run.bat
 
 ## RethinkDB
-1. Скачать и установить базу данных Rethinkdb для Windows	 
+1. Скачать и установить базу данных [Rethinkdb](https://download.rethinkdb.com/windows/rethinkdb-2.3.6.zip) для Windows	 
 2. Запустить Rethinkdb.exe  
 3. Панель управления (by default): localhost:8080  
 4. Адрес для подключения  localhost:28015
