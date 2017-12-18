@@ -50,20 +50,20 @@
 5. [Go Tutorial: Dot Net Perls](http://www.dotnetperls.com/go)
 6. [Бесплатные видеоуроки GopherCasts](https://gophercasts.io/)
 7. [Learn X in Y minutes (Where X = Go)](http://learnxinyminutes.com/docs/go/)
-8. [Learning Go](http://miek.nl/downloads/Go/ (бесплатная книга в виде PDF-файла)
+8. [Learning Go](http://miek.nl/downloads/Go/)
 9. [How to Write Go Code](http://golang.org/doc/code.html)
-10. [Эффективный Go](http://golang.org/doc/effective_go.html]
+10. [Эффективный Go](http://golang.org/doc/effective_go.html)
 11. [Go for C++ programmers](https://github.com/golang/go/wiki/GoForCPPProgrammers)
 12. [Go for C programmers](https://talks.golang.org/2012/goforc.slide#1)
 13. [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 14. [Build web application with Go](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 
 # Работа с базами данных
-1. [Go database/sql tutorial](http://go-database-sql.org/]
+1. [Go database/sql tutorial](http://go-database-sql.org/)
 
 # Advanced topics
-1. [Серверное программирование на Go](https://github.com/golang/go/wiki/LearnServerProgramming]
-2. [Network programming with Go](http://jan.newmarch.name/go/]
-3. [Обработка ошибок на Go](https://github.com/golang/go/wiki/LearnErrorHandling]
-4. [Тестирование приложений на Go](https://github.com/golang/go/wiki/LearnTesting]
-5. [Многопоточность на Go](https://github.com/golang/go/wiki/LearnConcurrency]
+1. [Серверное программирование на Go](https://github.com/golang/go/wiki/LearnServerProgramming)
+2. [Network programming with Go](http://jan.newmarch.name/go/)
+3. [Обработка ошибок на Go](https://github.com/golang/go/wiki/LearnErrorHandling)
+4. [Тестирование приложений на Go](https://github.com/golang/go/wiki/LearnTesting)
+5. [Многопоточность на Go](https://github.com/golang/go/wiki/LearnConcurrency)
