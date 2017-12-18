@@ -29,3 +29,41 @@
 2. Insomnia
 3. Postmen   
 4. etc.
+
+## Learning
+1. [Package for Go](https://golang.org/pkg/)
+2. [Testing online](https://play.golang.org/)
+3. [Tour](https://tour.golang.org/welcome/1)
+
+# На русском языке
+1. **Введение в программирование на Go** - http://golang-book.ru/
+2. **Всё, что вы хотели знать про GOPATH и GOROOT** - http://habrahabr.ru/post/249545/ (статья на Хабре)
+3. **Русский форум по Go** - https://groups.google.com/forum/#!forum/golang-ru
+
+# Русскоязычные сайты и сообщества
+1. **Первый русскоязычный сайт по Go** http://4gophers.com/
+2. **Русскоязычный slack-чат по Go** https://golang-ru.slack.com
+
+# English resources
+3. **Тур по Go** - http://tour.golang.org/ (официальный сайт)
+4. **Go by Example** - https://gobyexample.com/
+5. **Go Tutorial: Dot Net Perls** - http://www.dotnetperls.com/go
+6. **Бесплатные видеоуроки GopherCasts** - https://gophercasts.io/
+7. **Learn X in Y minutes (Where X = Go)** - http://learnxinyminutes.com/docs/go/
+8. **Learning Go** - http://miek.nl/downloads/Go/ (бесплатная книга в виде PDF-файла)
+9. **How to Write Go Code** - http://golang.org/doc/code.html (официальный сайт)
+10. **Эффективный Go** - http://golang.org/doc/effective_go.html (официальный сайт)
+11. **Go for C++ programmers** - https://github.com/golang/go/wiki/GoForCPPProgrammers
+12. **Go for C programmers** - https://talks.golang.org/2012/goforc.slide#1 (презентация)
+13. **Go Code Review Comments** - https://github.com/golang/go/wiki/CodeReviewComments
+14. **Build web application with Go** https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details (бесплатная книга от создателя веб-фрэймворка Beego)
+
+# Работа с базами данных
+1. **Go database/sql tutorial** http://go-database-sql.org/
+
+# Advanced topics
+1. **Серверное программирование на Go** - https://github.com/golang/go/wiki/LearnServerProgramming
+2. **Network programming with Go** - http://jan.newmarch.name/go/
+3. **Обработка ошибок на Go** - https://github.com/golang/go/wiki/LearnErrorHandling
+4. **Тестирование приложений на Go** - https://github.com/golang/go/wiki/LearnTesting
+5. **Многопоточность на Go** - https://github.com/golang/go/wiki/LearnConcurrency
