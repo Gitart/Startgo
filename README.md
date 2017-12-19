@@ -34,15 +34,13 @@
 2. [Testing online](https://play.golang.org/)
 3. [Tour](https://tour.golang.org/welcome/1)
 
-## На русском языке
+## Русскоязычные сайты и сообщества
 1. [Введение в программирование на Go](http://golang-book.ru/)
 2. [Всё, что вы хотели знать про GOPATH и GOROOT](http://habrahabr.ru/post/249545/)
 3. [Русский форум по Go](https://groups.google.com/forum/#!forum/golang-ru)
-
-## Русскоязычные сайты и сообщества
-1. [Первый русскоязычный сайт по Go](http://4gophers.com/)
-2. [Русскоязычный slack-чат по Go](https://golang-ru.slack.com)
-3. [Гофры](https://4gophers.ru/)
+4. [Первый русскоязычный сайт по Go](http://4gophers.com/)
+5. [Русскоязычный slack-чат по Go](https://golang-ru.slack.com)
+6. [Гофры](https://4gophers.ru/)
 
 ## English resources  
 3. [Тур по Go](http://tour.golang.org/)   
@@ -60,6 +58,8 @@
 15. [Library for Go](https://golanglibs.com)  
 16. [Site for Go](https://www.goinggo.net/2013/06/reading-xml-documents-in-go.html)  
 17. [Unrolled](https://github.com/unrolled/render)  
+18. [Tutorial](https://tutorialedge.net/golang/parsing-xml-with-golang/) 
+
 
 ## Работа с базами данных
 1. [Go database/sql tutorial](http://go-database-sql.org/)
