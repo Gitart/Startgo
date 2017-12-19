@@ -59,6 +59,7 @@
 14. [Build web application with Go](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)  
 15. [Library for Go](https://golanglibs.com)  
 16. [Site for Go](https://www.goinggo.net/2013/06/reading-xml-documents-in-go.html)  
+17. [Unrolled](https://github.com/unrolled/render)  
 
 ## Работа с базами данных
 1. [Go database/sql tutorial](http://go-database-sql.org/)
@@ -69,3 +70,11 @@
 3. [Обработка ошибок на Go](https://github.com/golang/go/wiki/LearnErrorHandling)
 4. [Тестирование приложений на Go](https://github.com/golang/go/wiki/LearnTesting)
 5. [Многопоточность на Go](https://github.com/golang/go/wiki/LearnConcurrency)
+
+
+## Other links
+1. [Jira in Go](https://github.com/Netflix-Skunkworks/go-jira)
+
+
+## Js
+1. [Samples](http://www.chartjs.org/docs/latest/getting-started/)   
