@@ -57,6 +57,7 @@
 12. [Go for C programmers](https://talks.golang.org/2012/goforc.slide#1)
 13. [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 14. [Build web application with Go](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
+15. [Library for Go](https://golanglibs.com)
 
 ## Работа с базами данных
 1. [Go database/sql tutorial](http://go-database-sql.org/)
