@@ -59,7 +59,9 @@
 16. [Site for Go](https://www.goinggo.net/2013/06/reading-xml-documents-in-go.html)  
 17. [Unrolled](https://github.com/unrolled/render)  
 18. [Tutorial](https://tutorialedge.net/golang/parsing-xml-with-golang/) 
-
+19. [Creating A Simple Web Server With Golang](https://tutorialedge.net/golang/creating-simple-web-server-with-golang/)
+20. [Parse XML](https://siongui.github.io/2015/02/17/go-parse-xml-example-1/)
+21. [Read XML](https://www.socketloop.com/tutorials/read-parse-xml-file-go)
 
 ## Работа с базами данных
 1. [Go database/sql tutorial](http://go-database-sql.org/)
