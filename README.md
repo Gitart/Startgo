@@ -34,17 +34,17 @@
 2. [Testing online](https://play.golang.org/)
 3. [Tour](https://tour.golang.org/welcome/1)
 
-# На русском языке
+## На русском языке
 1. [Введение в программирование на Go](http://golang-book.ru/)
 2. [Всё, что вы хотели знать про GOPATH и GOROOT](http://habrahabr.ru/post/249545/)
 3. [Русский форум по Go](https://groups.google.com/forum/#!forum/golang-ru)
 
-# Русскоязычные сайты и сообщества
+## Русскоязычные сайты и сообщества
 1. [Первый русскоязычный сайт по Go](http://4gophers.com/)
 2. [Русскоязычный slack-чат по Go](https://golang-ru.slack.com)
 3. [Гофры](https://4gophers.ru/)
 
-# English resources
+## English resources
 3. [Тур по Go](http://tour.golang.org/) 
 4. [Go by Example](https://gobyexample.com/)
 5. [Go Tutorial: Dot Net Perls](http://www.dotnetperls.com/go)
@@ -58,10 +58,10 @@
 13. [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 14. [Build web application with Go](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 
-# Работа с базами данных
+## Работа с базами данных
 1. [Go database/sql tutorial](http://go-database-sql.org/)
 
-# Advanced topics
+## Advanced topics
 1. [Серверное программирование на Go](https://github.com/golang/go/wiki/LearnServerProgramming)
 2. [Network programming with Go](http://jan.newmarch.name/go/)
 3. [Обработка ошибок на Go](https://github.com/golang/go/wiki/LearnErrorHandling)
