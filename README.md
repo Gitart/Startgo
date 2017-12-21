@@ -66,6 +66,7 @@
 
 ## Работа с базами данных
 1. [Go database/sql tutorial](http://go-database-sql.org/)
+2. [Sample RethinkDb project email](https://github.com/lavab/mailer/blob/develop/outbound_handler.go)
 
 ## Advanced topics
 1. [Серверное программирование на Go](https://github.com/golang/go/wiki/LearnServerProgramming)
