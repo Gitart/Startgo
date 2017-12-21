@@ -64,6 +64,8 @@
 21. [Read XML](https://www.socketloop.com/tutorials/read-parse-xml-file-go)
 22. [Go post example](https://github.com/northbright/go-post-example)
 23. [Package Management Tools](https://github.com/golang/go/wiki/PackageManagementTools)
+24. [Plugins](https://jeremywho.com/go-1.8---plugins)
+25. [Random data](https://gocodecloud.com/snippets/generate_random_data/)
 
 ## Работа с базами данных
 1. [Go database/sql tutorial](http://go-database-sql.org/)
