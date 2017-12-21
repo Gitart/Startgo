@@ -63,6 +63,7 @@
 20. [Parse XML](https://siongui.github.io/2015/02/17/go-parse-xml-example-1/)
 21. [Read XML](https://www.socketloop.com/tutorials/read-parse-xml-file-go)
 22. [Go post example](https://github.com/northbright/go-post-example)
+23. [Package Management Tools](https://github.com/golang/go/wiki/PackageManagementTools)
 
 ## Работа с базами данных
 1. [Go database/sql tutorial](http://go-database-sql.org/)
