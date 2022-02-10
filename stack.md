@@ -7,7 +7,7 @@
 * [**Конфигурация** Load config](https://github.com/spf13/viper)
 * [**Обработка ошибок** Errors](https://github.com/bugsnag/bugsnag-go) 
 * [**Тестирование** Testing](https://github.com/stretchr/testify#mock-package)
-* [**Менеджер пакетов** PM2]()
+* [**Менеджер пакетов** PM2](https://pm2.keymetrics.io/)
 * [**Среда разработки**](https://github.com/caarlos0/env)
 * [**Профайлинг** Profiling](https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/)
 * [**Линтр** Lintr](https://golangci-lint.run/usage/quick-start/)
