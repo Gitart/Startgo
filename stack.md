@@ -20,8 +20,7 @@
 
 
 ## Database
-[**Pg**](// https://www.postgresqltutorial.com/postgresql-upsert/)
-
+[**Pg**](https://www.postgresqltutorial.com/postgresql-upsert)
 
 ## Other usefull librarry
 [**Notarrity**](https://github.com/notaryproject/notary)
