@@ -16,6 +16,9 @@
 * [**Цвет** color]("github.com/fatih/color")
 * 
 
+## Video
+https://www.youtube.com/watch?v=29LLRKIL_TI#773117310357741568-tw#1490117170588
+
 # Create Errors
 [Err](https://yourbasic.org/golang/create-error/)
 ```go
