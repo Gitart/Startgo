@@ -42,3 +42,8 @@ err2 := fmt.Errorf("math: square root of negative number %g", x)
 
 ## Other
 ![image](https://user-images.githubusercontent.com/3950155/153363636-87578767-9da9-4a95-b686-60a8dcfcfce5.png)
+
+
+## Time line
+![image](https://user-images.githubusercontent.com/3950155/153406045-138d01d2-892f-4093-95fc-52342af161bc.png)
+
