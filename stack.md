@@ -1,13 +1,14 @@
 ## Stack
 
 
-[Routing LABSTACK](github.com/labstack/echo/v4)
-[Dattabase GORM](gorm.io/gorm)
-[Ci](
-[Errors]() 
-[Testing](https://github.com/stretchr/testify#mock-package)
-[PM2]()
-[Profiling](https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/)
+* [Routing LABSTACK](github.com/labstack/echo/v4)
+* [Dattabase GORM](gorm.io/gorm)
+* [Ci](
+* [Errors]() 
+* [Testing](https://github.com/stretchr/testify#mock-package)
+* [PM2]()
+* [Profiling](https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/)
+* [Lintr](https://golangci-lint.run/usage/quick-start/)
 
 
 
