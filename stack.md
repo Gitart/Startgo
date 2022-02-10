@@ -14,6 +14,8 @@
 * [**Документирование** Doctl](https://github.com/digitalocean/doctl)
 * [**Логирование** logrus](github.com/sirupsen/logrus)
 * [**Цвет** color]("github.com/fatih/color")
+* [**Docker config**](github.com/docker/go-connections/tlsconfig)
+* [**Database SQL**]("github.com/go-sql-driver/mysql")
 * 
 
 ## Video
