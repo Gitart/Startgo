@@ -7,7 +7,7 @@
 * [**Конфигурация** Load config](https://github.com/spf13/viper)
 * [**Обработка ошибок** Errors](https://github.com/bugsnag/bugsnag-go) 
 * [**Тестирование** Testing](https://github.com/stretchr/testify#mock-package)
-* [**Менеджер пакетов** PM2](https://pm2.keymetrics.io/)
+* [**Менеджер процессов** PM2](https://pm2.keymetrics.io/)
 * [**Среда разработки**](https://github.com/caarlos0/env)
 * [**Профайлинг** Profiling](https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/)
 * [**Линтр** Lintr](https://golangci-lint.run/usage/quick-start/)
@@ -21,8 +21,6 @@
 
 ## Other usefull librarry
 [**Notarrity**](https://github.com/notaryproject/notary)
-
-* 
 
 ## Video
 https://www.youtube.com/watch?v=29LLRKIL_TI#773117310357741568-tw#1490117170588
@@ -38,7 +36,6 @@ err2 := fmt.Errorf("math: square root of negative number %g", x)
 ```
 ## Other
 [RegExpr](https://github.com/mingrammer/commonregex)
-
 
 ## Other
 ![image](https://user-images.githubusercontent.com/3950155/153363636-87578767-9da9-4a95-b686-60a8dcfcfce5.png)
